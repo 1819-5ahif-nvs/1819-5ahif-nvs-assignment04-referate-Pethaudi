@@ -22,7 +22,6 @@ Ein jedes Beispiel realisiert die gleiche Problematik, der Unterschied besteht i
 Innerhalb jedes Projektes folgende Befehl ausführen:
 1. `npm i`
 2. `npm start`
-3. `npm run build` (nur ES6 Projekt)
 
 ## Ausarbeitung des Referats
 

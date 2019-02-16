@@ -1,0 +1,14 @@
+{
+  "name": "es6-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync src src -f src --cors -b \"google chrome\" --no-notify"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
