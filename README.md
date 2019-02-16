@@ -19,9 +19,10 @@ Ein jedes Beispiel realisiert die gleiche Problematik, der Unterschied besteht i
 
 ## Starten
 
-Ein jedes Beispiel kann mit `npm start` ausgeführt werden.
-
-Vorm Starten des ES6 Projektes muss noch `npm run build` ausgeführt werden. 
+Innerhalb jedes Projektes folgende Befehl ausführen:
+1. `npm i`
+2. `npm start`
+3. `npm run build` (nur ES6 Projekt)
 
 ## Ausarbeitung des Referats
 
