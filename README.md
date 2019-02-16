@@ -2,27 +2,17 @@
 
 ## Aufbau
 
-Präsentation: https://drive.google.com/open?id=184TAIe8ePVeTwj-Ka9bPEcP63k3B97b4woIcGB0g2AA
+Die Präsentation und ein Vergleich mit anderen Frameworks ist hier zu sehen: https://drive.google.com/open?id=184TAIe8ePVeTwj-Ka9bPEcP63k3B97b4woIcGB0g2AA
 
-In diesem Repository befinden 3 Beispiele:
-* ES6 Webcomponents
-* VueJs
-* React
+In diesem Repository befinden ein Projekt zu ES6 Webcomponents und kann Stück für Stück nachprogrammiert werden (Anleitung im README unter es6-app)
 
-Es wurde kein Angularprojekt erstellt da Angular bereits im Unterricht sehr ausführlich durchgemacht worden ist.
+Um das Projekt zu testen/auszuführen muss ein Server gestartet werden. Diesen findet man hier: https://drive.google.com/open?id=1K3_jy970DHLLQDvjT3-oJez1uNFS_Aym
 
-Um die Projekte zu testen/auszuführen muss ein Server gestartet werden. Diesen findet man hier: https://drive.google.com/open?id=1K3_jy970DHLLQDvjT3-oJez1uNFS_Aym
+## Beispiel
 
-## Beispiele
-
-Ein jedes Beispiel realisiert die gleiche Problematik, der Unterschied besteht in der verwendeten Technologie.
+Das Beispiel zeigt wie ein Router und eine ganze Website mithilfe von ES6-Components sehr einfach erzeugt werden kann
 
 ## Starten
 
-Innerhalb jedes Projektes folgende Befehl ausführen:
 1. `npm i`
 2. `npm start`
-
-## Ausarbeitung des Referats
-
-Wie die Beispiele selbst realisiert werden können steht in der `README.md` von jedem Projekt beschrieben.
