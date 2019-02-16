@@ -1,4 +1,4 @@
-# Webcomponentes vs Angular, React & VueJs
+# Webcomponents vs Angular, React & VueJs
 
 ## Aufbau
 
